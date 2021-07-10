@@ -1,4 +1,4 @@
-##Non-Authoritative Guidelines to Program in C++
+## Non-Authoritative Guidelines to Program in C++
 
 1. Don’t say in comments what can be clearly stated in code
 2. State intent in comments
